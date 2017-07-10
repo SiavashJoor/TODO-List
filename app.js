@@ -27,7 +27,7 @@ var addEvent = function(){
 
    var buttonDelete = document.createElement("button")
        buttonDelete.textContent = "Delete"
-       buttonDelete.className = 
+       buttonDelete.className = "delete"
      
        li.appendChild(listCheck)
        li.appendChild(label)
