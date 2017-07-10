@@ -1,0 +1,59 @@
+
+/***********************
+GENERAL RULES
+************************/
+
+body {
+    max-width: 940px;
+    font-size: 1em;
+    margin:0;
+    font-family: 'Roboto' , sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+#gallery li {
+    float: left;
+    max-width: 940px;
+    width: 45%;
+    margin: 2.5%;
+ list-style: none;
+
+
+}
+.test {
+    text-align: left
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 2em;
+}
+h1 p {
+    font-size: 1em
+}
+/* Colors Adjustments */
+
+#headings {
+    text-align: center;
+    margin: 0;
+    color:#fff003;
+    background-color:#56ba4f;
+    font-family: 'Pangolin' , cursive;
+    display: 
+}
+
+nav a.selected , nav a:hover {
+    color:#7b3a44;
+}
+nav {
+    background-color: blue;
+}
+a:link {
+    display: inline;
+    background: red;
+}
